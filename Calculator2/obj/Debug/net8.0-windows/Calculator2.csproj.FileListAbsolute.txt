@@ -1,0 +1,16 @@
+F:\C Sharp1\Calculator2\Calculator2\bin\Debug\net8.0-windows\Calculator2.exe
+F:\C Sharp1\Calculator2\Calculator2\bin\Debug\net8.0-windows\Calculator2.deps.json
+F:\C Sharp1\Calculator2\Calculator2\bin\Debug\net8.0-windows\Calculator2.runtimeconfig.json
+F:\C Sharp1\Calculator2\Calculator2\bin\Debug\net8.0-windows\Calculator2.dll
+F:\C Sharp1\Calculator2\Calculator2\bin\Debug\net8.0-windows\Calculator2.pdb
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.Form1.resources
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.csproj.GenerateResource.cache
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.AssemblyInfoInputs.cache
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.AssemblyInfo.cs
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.csproj.CoreCompileInputs.cache
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.dll
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\refint\Calculator2.dll
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.pdb
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\Calculator2.genruntimeconfig.cache
+F:\C Sharp1\Calculator2\Calculator2\obj\Debug\net8.0-windows\ref\Calculator2.dll
